@@ -1,4 +1,4 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm Ian
 
 <img src="https://raw.githubusercontent.com/iwarner/iwarner/master/header.jpeg" alt="Banner for DryKISS - We Make MVPs" />
 
